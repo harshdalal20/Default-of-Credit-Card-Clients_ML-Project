@@ -1,4 +1,4 @@
- Created Nachine learning project, which focuses on predicting credit card defaults using advanced classification models. The code is divided in below parts:
+ Created Machine learning project, which focuses on predicting credit card defaults using advanced classification models. The code is divided in below parts:
 
 Data Preprocessing: Cleaning and preparing the dataset for analysis.
 Exploratory Data Analysis (EDA): Identifying patterns and insights from multivariate attributes.
